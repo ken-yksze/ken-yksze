@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I am Ken Sze 👋
 
-<!--
-**ken-yksze/ken-yksze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="./banner.jpg" alt="Banner"/>
+</p>
 
-Here are some ideas to get you started:
+## 🌱 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I've been a Full Stack Developer for one year
+- I'm now pursuing further study in Web Development at Humber College
+
+## 💡 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,c,cpp,cs,dotnet,java,python,html,css,js,ts,react,vuejs,nextjs,mysql,postgresql,mongo)](https://skillicons.dev)
+
+## Contacts
+
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=for-the-badge&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ken-sze)](https://www.linkedin.com/in/ken-sze)
