@@ -1,7 +1,7 @@
 # Hi there, I am Ken Sze 👋
 
 <p align="left">
-  <img src="./banner.jpg" alt="Banner" width="670" height="161"/>
+  <img src="./banner.png" alt="Banner" width="670" height="161"/>
 </p>
 
 ## 🌱 About me
